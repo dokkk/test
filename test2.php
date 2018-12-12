@@ -1,3 +1,3 @@
 <?
 
-echo "ciao ciao";
+echo "ciao ciao ciao";
